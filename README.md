@@ -1,6 +1,6 @@
 # Patron Abstract Factory
 
-**Este es un ejemplo de la estructura de el patron Abstract Factpry trabajado en la Universidad EAFIT 2018-2**
+**Este es un ejemplo de la estructura de el patron Abstract Factory trabajado en la Universidad EAFIT 2018-2**
 
 # Autores
 - Juan Camilo Marin Navia
