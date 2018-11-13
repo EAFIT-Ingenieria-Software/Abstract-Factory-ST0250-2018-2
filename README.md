@@ -23,7 +23,7 @@ Este patron se puede usar por ejemplo para crear widgets o interfaces graficas m
 # Clona este repositorio
 git clone https://github.com/jcamilomnavia/Abstract-Factory-ST0250-2018-2
 # Ve al directorio del repositorio
-cd lar-electron
+cd Abstract-Factory-ST0250-2018-2
 # Abrir con visual studio code
 code .
 ```
