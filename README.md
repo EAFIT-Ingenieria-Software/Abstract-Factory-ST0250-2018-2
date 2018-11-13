@@ -22,6 +22,6 @@ cd lar-electron
 code .
 ```
 # Autores
-**Juan Camilo Marin Navia**
-**Federico Agudelo Mejia**
-**Stefania Zapata Osorio**
+Juan Camilo Marin Navia
+Federico Agudelo Mejia
+Stefania Zapata Osorio
