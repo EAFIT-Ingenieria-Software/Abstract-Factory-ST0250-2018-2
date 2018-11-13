@@ -1,4 +1,4 @@
-#Patron Abstract Factory
+# Patron Abstract Factory
 
 **Este es un ejemplo de la estructura de el patron Abstract Factpry trabajado en la Universidad EAFIT 2018-2**
 
@@ -8,10 +8,10 @@ Este patron se puede usar por ejemplo para crear widgets o interfaces graficas m
 #Modelo de clases de la solucion implementada
 ![Alt text](assets/img/model.png "Modelo Implementado")
 
-#Lenguaje de programacion
+# Lenguaje de programacion
 **C# o C sharp**
 
-#Ejecucion
+# Ejecucion
 **Este codigo solo muestra la esructura del patron, por lo cual solo ha sido diseñado con motivos de entender este patron**
 ```bash
 # Clona este repositorio
@@ -21,7 +21,7 @@ cd lar-electron
 # Abrir con visual studio code
 code .
 ```
-#Autores
+# Autores
 **Juan Camilo Marin Navia**
 **Federico Agudelo Mejia**
 **Stefania Zapata Osorio**
