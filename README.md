@@ -27,3 +27,6 @@ cd lar-electron
 # Abrir con visual studio code
 code .
 ```
+# Referencias
+- Abstract Factory Design Pattern. SourceMaking. https://sourcemaking.com/design_patterns/abstract_factory
+- Patron Abstract Factory. Linea de Codigo http://lineadecodigo.com/patrones/patron-abstract-factory/
