@@ -2,6 +2,11 @@
 
 **Este es un ejemplo de la estructura de el patron Abstract Factpry trabajado en la Universidad EAFIT 2018-2**
 
+# Autores
+- Juan Camilo Marin Navia
+- Federico Agudelo Mejia
+- Stefania Zapata Osorio
+
 # Problematica
 El patron Abstract Factory toma el mismo concepto de Factory Method pero al proximo nivel. Un abstract factory es una clase que provee una interfaz para producir una familia de objetos. En lenguaje de programacion, esto se puede implementar con una interfaz o con una clase abstracta.
 Este patron se puede usar por ejemplo para crear widgets o interfaces graficas multiplataforma(cada SO forma una familia diferente de objetos).
@@ -22,7 +27,3 @@ cd lar-electron
 # Abrir con visual studio code
 code .
 ```
-# Autores
-- Juan Camilo Marin Navia
-- Federico Agudelo Mejia
-- Stefania Zapata Osorio
